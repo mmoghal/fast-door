@@ -13,7 +13,7 @@ N/A
 
 2. Application Image
 
-![alt Image of the application](https://github.com/mmoghal/fast-door/tree/main/assets/images/umbrella.png)
+![alt Image of the application](https://github.com/mmoghal/fast-door/blob/main/assets/images/landing_page.png)
 
 ## Usage
 
