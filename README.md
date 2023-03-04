@@ -1,4 +1,4 @@
-# Module-01-Mini-Project-Landing-Page
+# Mini-Project-Landing-Page
 
 ## Description
 
